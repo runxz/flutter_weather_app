@@ -1,0 +1,4 @@
+#Fri Oct 27 16:47:20 WIB 2023
+base.0=C\:\\Users\\DELL\\Documents\\fluter\\weatherapp\\weather_app\\weather_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

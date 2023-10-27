@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d289ce892ef2c75edaec13fdcd4a99d2\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d5a7794a7995df60bd32b7aee26c2421\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\c8735d172c5454d5ab1960df6b6271dc\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{14B2E0AA-71A6-36A0-9BBA-B40556A75872}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

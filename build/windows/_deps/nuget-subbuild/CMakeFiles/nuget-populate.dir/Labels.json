@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/c8735d172c5454d5ab1960df6b6271dc/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d5a7794a7995df60bd32b7aee26c2421/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d289ce892ef2c75edaec13fdcd4a99d2/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

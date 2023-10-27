@@ -1,0 +1,28 @@
+^C:\USERS\DELL\DOCUMENTS\FLUTER\WEATHERAPP\WEATHER_APP\WEATHER_APP\BUILD\WINDOWS\CMAKEFILES\F3C39146FEFFCF00B8F98A374D619309\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\DELL\Documents\flutter-sdk\flutter PROJECT_DIR=C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app FLUTTER_ROOT=C:\Users\DELL\Documents\flutter-sdk\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\windows\flutter\ephemeral PROJECT_DIR=C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app FLUTTER_TARGET=C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9iZDk4NmM1ZWQyMGE2MmRjMzRiNzcxOGM1MGFiYzc4MmJlYWU0YzMzLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\DELL\Documents\fluter\weatherapp\weather_app\weather_app\.dart_tool\package_config.json C:/Users/DELL/Documents/flutter-sdk/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DOCUMENTS\FLUTER\WEATHERAPP\WEATHER_APP\WEATHER_APP\BUILD\WINDOWS\CMAKEFILES\9926C955F09B0B14961EAD864E18108F\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DOCUMENTS\FLUTER\WEATHERAPP\WEATHER_APP\WEATHER_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/windows -BC:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows --check-stamp-file C:/Users/DELL/Documents/fluter/weatherapp/weather_app/weather_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
